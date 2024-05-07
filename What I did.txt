@@ -1,0 +1,1 @@
+I was given this project on CodeCademy with the HTML already written and then I wrote the entire CSS file to mimick how its suppose to look.
